@@ -10,7 +10,7 @@ For example: "Vicuna-13B". The name of the model is Vicuna, and it has 13 billio
 
 #### What is a parameter?
 
-A parameter is a value that the model learns during training. These values are adjusted through a process called backpropagation, which involves calculating the error between the model's predictions and the actual output and adjusting the parameters to minimize this error. The number of parameters in an LLM is typically very large, often numbering in the millions or even billions. These parameters capture the relationships between different words and phrases in language, allowing the model to generate human-like output and make accurate predictions. Without these parameters, a language model would not be able to perform natural language processing tasks at a high level of accuracy.
+A parameter is a numerical value that the model learns during training to adjust its internal workings. It's analogous to the coefficients in a mathematical equation. These values are adjusted through a process called backpropagation, which involves calculating the error between the model's predictions and the actual output and adjusting the parameters to minimize this error. The number of parameters in an LLM is typically very large, often numbering in the millions or even billions. These parameters capture the relationships between different words and phrases in language, allowing the model to generate human-like output and make accurate predictions. Without these parameters, a language model would not be able to perform natural language processing tasks at a high level of accuracy.
 
 #### What does “training” an ML model mean?
 
